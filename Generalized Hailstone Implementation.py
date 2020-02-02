@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[21]:
-
-
 def hailstone(x):
     count1=0
     for a in range(1,11):
