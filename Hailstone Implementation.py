@@ -1,5 +1,3 @@
-
-
 def hailstorm(x):
     count=0
     while x!=1:
